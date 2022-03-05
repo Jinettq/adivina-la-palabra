@@ -1,0 +1,27 @@
+#pagina{
+    background-color: rgb(166, 224, 235);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#titulo_juego{
+    background-color: rgb(240, 239, 181);
+    font-size: 70px;
+    font-family: century gothic;
+    width:1000px;
+    
+}
+#seccion_jugadores{
+    background-color: rgb(240, 193, 205);
+    font-size: 25px;
+    font-family: century gothic;
+    width: 1000px;
+}
+#boton{
+    background-color: rgb(8, 13, 87);
+    color:white;
+    font-size: 30px;
+    font-family: century gothic;
+    border-style: solid;
+    border-radius: 80px;
+    padding: 20px;
+}
